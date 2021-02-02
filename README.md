@@ -1,2 +1,4 @@
 # GitPractice
 GitPractice
+A
+B
